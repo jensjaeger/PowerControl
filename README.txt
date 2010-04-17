@@ -1,16 +1,17 @@
 PowerControl 
 ============
-Java-Software (Kommandozeile) zum Auslesen und Schalten der [Net-PwrCtrl](http://www.anel-elektronik.de/english/Produkte/products.html) Steckdosenleisten:
+Java-Software (Kommandozeile) zum Auslesen und Schalten der Net-PwrCtrl(http://www.anel-elektronik.de/english/Produkte/products.html) Steckdosenleisten:
 
 Voraussetzungen:
-===============
+================
 
 1.) Net-PwrCtrl Steckdosenleiste mit Firmware 3.0
 2.) PC mit Mac OS X, Linux oder Windows und Java 1.5 (oder höher)
 
 
 Verwendung:
-==========
+===========
+
 1.) Beispiel: Auslesen des aktuellen Status via UDP
 
 Die IP-Adresse (hier: 192.168.1.13) ist die Adresse der Steckdosenleiste.
@@ -117,7 +118,7 @@ Credit
 
 This Software was created by Christoph Nowak
 
-Its now hosted on github by [Jens Jäger](http://www.jensjaeger.com) so it can live on.
+Its now hosted on github by Jens Jäger(http://www.jensjaeger.com) so it can live on.
 
 License
 =======
