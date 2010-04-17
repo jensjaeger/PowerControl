@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iphone/!svn/ver/75/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/http
+END
+HTTPSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iphone/!svn/ver/75/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/http/HTTPSwitch.java
+END
+HTTPRequestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/iphone/!svn/ver/70/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/http/HTTPRequestManager.java
+END
+HTTPResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iphone/!svn/ver/68/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/http/HTTPResult.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/81/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol
+END
+PowerControlIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iphone/!svn/ver/81/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/PowerControlIfc.java
+END
+PowerControlSwitchFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/iphone/!svn/ver/71/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/PowerControlSwitchFactory.java
+END
+PowerControlSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/iphone/!svn/ver/78/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/PowerControlSwitch.java
+END
+PowerControlState.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iphone/!svn/ver/75/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/PowerControlState.java
+END
+PowerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iphone/!svn/ver/77/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/PowerControl.java
+END
+PowerControlParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/iphone/!svn/ver/75/dev/Java/PowerSwitch/trunk/source/org/nowi/powercontrol/PowerControlParameters.java
+END

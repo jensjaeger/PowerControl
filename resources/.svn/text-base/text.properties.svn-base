@@ -1,0 +1,13 @@
+Name1=Name1
+Name2=Name2
+IPAddress=IP-Address
+Mask=Mask
+Gateway=Gateway
+MACAddress=MAC-Address
+Outlet=Outlet
+SegDis=Seg_Dis
+HTTPPort=HTTP-Port
+Off=Off
+On=On
+Error=Error
+ErrorCode=Error Code
